@@ -23,7 +23,7 @@ I enjoy working across the full stack — from clean UI to robust backend system
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sri-nishant/)  
 📧 **Email:** srinishantbala68@gmail.com 
 
 ---
